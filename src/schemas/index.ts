@@ -1,8 +1,8 @@
-export { attributeModelSchemaOptions } from './attributeModelSchemaOptions';
 export { attributeModelSchema } from './attributeModelSchema';
-export { attributeTypeModelSchemaOptions } from './attributeTypeModelSchemaOptions';
+export { attributeModelSchemaOptions } from './attributeModelSchemaOptions';
 export { attributeTypeModelSchema } from './attributeTypeModelSchema';
-export { resourceAttributeModelSchemaOptions } from './resourceAttributeModelSchemaOptions';
+export { attributeTypeModelSchemaOptions } from './attributeTypeModelSchemaOptions';
 export { resourceAttributeModelSchema } from './resourceAttributeModelSchema';
-export { userAttributeModelSchemaOptions } from './userAttributeModelSchemaOptions';
+export { resourceAttributeModelSchemaOptions } from './resourceAttributeModelSchemaOptions';
 export { userAttributeModelSchema } from './userAttributeModelSchema';
+export { userAttributeModelSchemaOptions } from './userAttributeModelSchemaOptions';
